@@ -1,3 +1,4 @@
 buildpack.sh
+modlist.csv
 *.zip
 *.DS_Store
