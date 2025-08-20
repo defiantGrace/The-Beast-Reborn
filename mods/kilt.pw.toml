@@ -1,0 +1,13 @@
+name = "Kilt"
+filename = "Kilt-20.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t87XZEqv/versions/QjTslyaH/Kilt-20.1.5.jar"
+hash-format = "sha512"
+hash = "508c2e444abe0815ebdab76e3a31da8080c0dcb4c0ee50713aa62fe6481316ac97cdb944dba65aa356b78ff0081e81bb1a689cf64958790eef608b45febe1680"
+
+[update]
+[update.modrinth]
+mod-id = "t87XZEqv"
+version = "QjTslyaH"

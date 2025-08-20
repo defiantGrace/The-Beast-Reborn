@@ -1,0 +1,13 @@
+name = "Fabric Seasons: Nature's Spirit Compat"
+filename = "seasonsnaturesspiritcompat-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VZCZSOio/versions/ITaiugix/seasonsnaturesspiritcompat-1.0.4.jar"
+hash-format = "sha512"
+hash = "6a91369375d7c733bf979b7ef975a4c3e8bccb4f5c9ba45ce029c4bcc792e399d602b4365fa070a011f2202f5f405bf3b092e4bbe833ddd97db843a48c572a99"
+
+[update]
+[update.modrinth]
+mod-id = "VZCZSOio"
+version = "ITaiugix"
