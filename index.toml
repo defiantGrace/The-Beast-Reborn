@@ -514,6 +514,11 @@ hash = "f531a8ee70e9d78ee62a84e3fd18088070dcf8f2cee2384a8aabed16dbfafe6c"
 metafile = true
 
 [[files]]
+file = "mods/marvelous-menagerie.pw.toml"
+hash = "ff06369236d814269140a384e09056c94975b06c0f157fd052afd18b41d3e3c3"
+metafile = true
+
+[[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "78ae1714c3eb76e7696a37b25f375b65136b758c737bf4af0d6d4bc5e44e282f"
 metafile = true
@@ -606,6 +611,16 @@ metafile = true
 [[files]]
 file = "mods/particular.pw.toml"
 hash = "63a2011c75cdaf07c0a537c1f5c0661b7e5e0471c81625273634f88fed05b9c4"
+metafile = true
+
+[[files]]
+file = "mods/peculiar-predators.pw.toml"
+hash = "718b0a180d904973de5ec13709ac3f2d7fb427e4f38eae5c6022df6349d4bb94"
+metafile = true
+
+[[files]]
+file = "mods/peculiar-primordials.pw.toml"
+hash = "3c234a03da1852bd4271ae6a7ea00225a3bf2486118064ea7de8fcf52868c0d6"
 metafile = true
 
 [[files]]
@@ -761,6 +776,11 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "dff3250de34e9ae2124e2608a78707b76a0dcaf4fa4c656190251c14376da35a"
+metafile = true
+
+[[files]]
+file = "mods/unusual-prehistory.pw.toml"
+hash = "d2854f7b378454314a4987bf525efbbb71e7cef3f52befefb2273f6c5d1d5717"
 metafile = true
 
 [[files]]
