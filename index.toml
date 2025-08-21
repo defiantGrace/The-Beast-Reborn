@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/watut-client.toml"
+hash = "c8441b0a99acb190ee3f156c438a8e303c9e27946a377e15dbee7f2258502f18"
+
+[[files]]
 file = "modlist.csv"
 hash = "1d1cf107e5d9ca8add1ef766f206ec34cba0fb46b238e1681b8d2cba5b36bc4d"
 
