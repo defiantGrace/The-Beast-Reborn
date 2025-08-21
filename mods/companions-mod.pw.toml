@@ -1,0 +1,13 @@
+name = "Companions!"
+filename = "companions-fabric-1.20.1-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ArBFNu9T/versions/XG8UErHq/companions-fabric-1.20.1-1.0.6.jar"
+hash-format = "sha512"
+hash = "44e0167280c375b70d5b78f8eee8a45a8e4b825e7840235a7be5077a0b925f99dcafeb2cb0f36bb876fd2433afc09c4bf2c227acd9d729c30f444a2008e7018d"
+
+[update]
+[update.modrinth]
+mod-id = "ArBFNu9T"
+version = "XG8UErHq"

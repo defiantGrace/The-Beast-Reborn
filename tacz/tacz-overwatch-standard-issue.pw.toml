@@ -1,0 +1,13 @@
+name = "[TaCZ]Overwatch Standard Issue"
+filename = "Overwatch_Standard_Issue_0.31[for TaCZ later 1.04].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3344d3f05c29e95e756ab7b86c86ff9a97696060"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6062366
+project-id = 1132800

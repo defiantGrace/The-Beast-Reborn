@@ -1,0 +1,13 @@
+name = "[TaCZ] Half-Life Gunpack"
+filename = "HLMPack1.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25c67b8c039bb4a94c835f972e73e976c240c9f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6794721
+project-id = 1127832
