@@ -1,0 +1,13 @@
+name = "Adorable Hamster Pets"
+filename = "adorablehamsterpets-3.1.2-1.20.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LmrhZdK2/versions/AvViY1gY/adorablehamsterpets-3.1.2-1.20.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "5ac130f0e9012487be83d300e6179d2345532c5491ccc6ed2888aaa3dbe813801f5e52e44798ac443815c813b94c60bf559db9abacfd76f8717b5d59de6d8ca6"
+
+[update]
+[update.modrinth]
+mod-id = "LmrhZdK2"
+version = "AvViY1gY"

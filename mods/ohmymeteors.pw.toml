@@ -1,0 +1,13 @@
+name = "Oh My, Meteors!"
+filename = "ohmymeteors-0.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O9ayDkK0/versions/OOyitFkR/ohmymeteors-0.2.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "71bcc4d066baaffa6efd4ca9f4e0adf1349ae1b8f9a24315da5c6673495bb34445b2637489d6cfe4d40d74ed03421efccb5d95d113a71ab0602bbd7b39932158"
+
+[update]
+[update.modrinth]
+mod-id = "O9ayDkK0"
+version = "OOyitFkR"

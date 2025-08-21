@@ -1,0 +1,13 @@
+name = "Fetzi's Displays"
+filename = "fetzisdisplays-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NeiloyHm/versions/NypqvTRQ/fetzisdisplays-fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "3474839619ffa2d6c81b953433f24656e7f8d724c145a7fd7555bbe31775b914afc8b61431d02ae934413a6e83c879d9b265c4a14c2ca3138a3c313afd635714"
+
+[update]
+[update.modrinth]
+mod-id = "NeiloyHm"
+version = "NypqvTRQ"

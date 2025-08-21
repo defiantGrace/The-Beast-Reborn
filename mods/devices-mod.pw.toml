@@ -1,0 +1,13 @@
+name = "Ultreon Devices Mod"
+filename = "devices-fabric-0.8.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YDa5wT4H/versions/Gphnf0SN/devices-fabric-0.8.4.jar"
+hash-format = "sha512"
+hash = "c48a712a35d8863a395e34e7a34c431feedc6580206c432ba6aeb0b0f5d523c783b674ee26e9cf8d8e01a4c218e30ebe58c0ea137dcdc4182ef8465400b7c709"
+
+[update]
+[update.modrinth]
+mod-id = "YDa5wT4H"
+version = "Gphnf0SN"
