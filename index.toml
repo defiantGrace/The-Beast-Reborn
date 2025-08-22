@@ -5,10 +5,6 @@ file = "config/watut-client.toml"
 hash = "c8441b0a99acb190ee3f156c438a8e303c9e27946a377e15dbee7f2258502f18"
 
 [[files]]
-file = "modlist.csv"
-hash = "1d1cf107e5d9ca8add1ef766f206ec34cba0fb46b238e1681b8d2cba5b36bc4d"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "ff4b1002e2ca246ab15c2d9889832e873e49cb05fe9916f3282f92bd53294ca8"
 metafile = true
