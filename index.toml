@@ -588,6 +588,16 @@ hash = "5e140793f9c08f4466342b2a25a075fe6dc27b883cd8346a7d44e6bc6af6e972"
 metafile = true
 
 [[files]]
+file = "mods/modern-train-parts.pw.toml"
+hash = "fc603223a42ce7734577ea497edef14ba5c2e2fa96faf6dfc796b04feaf68b7b"
+metafile = true
+
+[[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "a497f0dc1832314a54531e6dd730db97ee0db8645e6ec02c1f68377b842f1c97"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "25eaf217efd36d674b35fe2577c41736bcceb2961224ce9dd3e67be0bd483d1d"
 metafile = true
