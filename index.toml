@@ -10,7 +10,7 @@ hash = "c8441b0a99acb190ee3f156c438a8e303c9e27946a377e15dbee7f2258502f18"
 
 [[files]]
 file = "modlist.csv"
-hash = "1d1cf107e5d9ca8add1ef766f206ec34cba0fb46b238e1681b8d2cba5b36bc4d"
+hash = "993ffb9725f8d75612fae71beb164c3df87aac5e840c036cfc6c60a93b07b77c"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -585,11 +585,6 @@ metafile = true
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "5e140793f9c08f4466342b2a25a075fe6dc27b883cd8346a7d44e6bc6af6e972"
-metafile = true
-
-[[files]]
-file = "mods/modern-train-parts.pw.toml"
-hash = "fc603223a42ce7734577ea497edef14ba5c2e2fa96faf6dfc796b04feaf68b7b"
 metafile = true
 
 [[files]]
