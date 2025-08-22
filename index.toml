@@ -564,6 +564,11 @@ hash = "10430695ad67fd14a9e208c0ebe6efaf073cc78e3292f52159b2d04b75b87214"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight-refabricated.pw.toml"
+hash = "3b0b356d704fc3de8436a33097f20ef542eb6396c66230f1f142c5f0a25ed90c"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
 metafile = true
@@ -731,6 +736,16 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "e53888490a33ad3127b09dd98ce001e579cb6c205a99a1e6e0424ab9f5b862c2"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-valheim-edition.pw.toml"
+hash = "48a59a30b1710971eca362bf584fdb12fa35e189a89823aff54309be8038f979"
+metafile = true
+
+[[files]]
+file = "mods/spooky-doors.pw.toml"
+hash = "ee599418996c3873efa5bf6045e2d3d8b38ebbe37a20a9f5abd9aef8e6ae73b7"
 metafile = true
 
 [[files]]
