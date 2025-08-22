@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "buildpack.sh"
+hash = "2efa125c58e13d8bc36ed690d54fb85e678140f12595891c825aed43161e8618"
+
+[[files]]
 file = "config/watut-client.toml"
 hash = "c8441b0a99acb190ee3f156c438a8e303c9e27946a377e15dbee7f2258502f18"
 
@@ -144,6 +148,11 @@ hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "fed6f66373bb06b6ff552c97cd9cdbdf78ec429320252619e563f9a4fb65feb9"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -199,6 +208,11 @@ hash = "2c65b7ed826a2d147f0eb4788152b9f1ae878e0df102af58a9ea23ebd1c48f04"
 metafile = true
 
 [[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "33da71242eed44ccd9e93b1d5c4d9a4dc15fb5e5ce44774468b0c8ee5c2b91b7"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
 metafile = true
@@ -251,6 +265,26 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "a4c2edcdb7ba2cd86d434d2e4ca6252004c605ca3866a4ffffc4b367f3c3ca86"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "3f15fb2df4db2178eb1c112a0d1a9d807600bf9be2b4049b5eda8e58427f9389"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+hash = "679039f42be593111e2e9c0b7a83f68a9901f57c93b7d4b2d671810cabefcb85"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
+hash = "38bf2120f47a1b2d8e210fd75720d6edb207a3db0185a058f56331d58d00efa1"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
 metafile = true
 
 [[files]]
@@ -401,6 +435,21 @@ metafile = true
 [[files]]
 file = "mods/glodium.pw.toml"
 hash = "dc96ea7e0dbe948eb3c517bb5458dd1fc9a787b61719458c2dd92d549c667ffb"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-mineshaft.pw.toml"
+hash = "d8f39538397a497028ffe6812ecdfa65d36dce03b39de9bbd64599d955adfdea"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-ruined-portals.pw.toml"
+hash = "447524944a1c5ed9a90f7eabac4bcf58e8f8eaa08e349f138df664128975a8cd"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "f57d03cf7f86ea07a85d94ac11c15c649a7ec8db67d772845609eca42c7af7d3"
 metafile = true
 
 [[files]]
@@ -841,6 +890,36 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "0958d9f10d0e8fb282b8e684b05b37b29aca826d48deeec3e44171857c99aca5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "a837a0028b1e1bbb6c4e5d31bf3cb04d6f6dccae90fc93df46f9a60a8b2c53c1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "8bc20a4cf22bdd4406a64126647cfe3c704e80a3197031c9154032905a276705"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "f23d28e95b21a9655e615390a560bc66f3cb87610ac38cd9d849129d0600a766"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "7e89ac9ea56f87a811a289d474b8ab4fe46d7a235b4c6ef4767e5099967d656e"
 metafile = true
 
 [[files]]
