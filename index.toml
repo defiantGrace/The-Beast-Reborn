@@ -5,6 +5,10 @@ file = "config/watut-client.toml"
 hash = "c8441b0a99acb190ee3f156c438a8e303c9e27946a377e15dbee7f2258502f18"
 
 [[files]]
+file = "modlist.csv"
+hash = "1d1cf107e5d9ca8add1ef766f206ec34cba0fb46b238e1681b8d2cba5b36bc4d"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "ff4b1002e2ca246ab15c2d9889832e873e49cb05fe9916f3282f92bd53294ca8"
 metafile = true
@@ -55,11 +59,6 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
-file = "mods/artemis-laboratory-blocks.pw.toml"
-hash = "eb80749f869d62a0f79c69aff121cf94456015f95daf4edfee210ac6b7532c72"
-metafile = true
-
-[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
 metafile = true
@@ -102,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "c4c11bc748458978b676b2a5cef87b5b8548c2289e9c199f225f941fb1593c9d"
+metafile = true
+
+[[files]]
+file = "mods/blocks-you-need.pw.toml"
+hash = "33cc939d0ec0fe1079dbfebc6eedb764edef3a6a9c159c8f8a7e5e990ced3a93"
 metafile = true
 
 [[files]]
@@ -782,11 +786,6 @@ metafile = true
 [[files]]
 file = "mods/via-romana.pw.toml"
 hash = "34bb15b2b76b079fa863414ad775b77b9adbe8fa8d2dcc5f02abbb4faa9d4f0f"
-metafile = true
-
-[[files]]
-file = "mods/vics-point-blank.pw.toml"
-hash = "a00cc5dac6276138b406419dc6919e73735bcd19577fca3fa13f9353a4d1ccbc"
 metafile = true
 
 [[files]]
