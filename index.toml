@@ -532,6 +532,16 @@ hash = "cf74742353cc5e9a758c212b92043542d7729accaefb5cb7f1851c03e7136fd7"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "8619be4a2d5da2deff6cee6ebda356c1a7fdf3a36d8b58d31cd6ddd5b1649ca1"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
@@ -1019,6 +1029,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/half-mine.pw.toml"
 hash = "2f2839488232309091c1a2c73332480fbe3ce107fb807113e56a0028a938f9a5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/luster16.pw.toml"
+hash = "b3f47a74aaf0b428c3b06d2cc366661d03bc33c2442eb06cb8e6a8e6a6a1d218"
 metafile = true
 
 [[files]]
