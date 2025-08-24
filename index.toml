@@ -5,6 +5,10 @@ file = "buildpack.sh"
 hash = "2efa125c58e13d8bc36ed690d54fb85e678140f12595891c825aed43161e8618"
 
 [[files]]
+file = "config/paxi/datapacks/flesh_meteor.zip"
+hash = "1e3aa6011625b4ddb398ab64dd458f833ed575667fcd78a5cf515456c5ff2421"
+
+[[files]]
 file = "config/watut-client.toml"
 hash = "c8441b0a99acb190ee3f156c438a8e303c9e27946a377e15dbee7f2258502f18"
 
@@ -328,8 +332,18 @@ hash = "651bff2e87af8887d50ee2a13b2f2d53c2e03134cf35caba8b3734bfdef89924"
 metafile = true
 
 [[files]]
+file = "mods/escalated.pw.toml"
+hash = "b1f3c991febbaac1ea00da7bc45cc3a7a0af4bdb920334267a3095580f32825e"
+metafile = true
+
+[[files]]
 file = "mods/esf.pw.toml"
 hash = "a200126de897cb674e4a5095ecec2afa3eaf2d2480e75cb9931011a3477bea45"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "18b0d44213fd3c7e22748e4ad775e6ce5cf243f9b38294130a826c845ae913c4"
 metafile = true
 
 [[files]]
@@ -533,6 +547,11 @@ hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
 metafile = true
@@ -678,6 +697,11 @@ hash = "63a2011c75cdaf07c0a537c1f5c0661b7e5e0471c81625273634f88fed05b9c4"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "58e0dcbd933909735c31a0da3009fc05276b322196026137ef39da9a50525d8d"
+metafile = true
+
+[[files]]
 file = "mods/peculiar-predators.pw.toml"
 hash = "718b0a180d904973de5ec13709ac3f2d7fb427e4f38eae5c6022df6349d4bb94"
 metafile = true
@@ -730,6 +754,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "5736dea6480c9e68467139b935695423c9903ac617f5fe757b5f158007fed8cb"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
 metafile = true
 
 [[files]]
