@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/fungal-infectionspore.pw.toml"
-hash = "7f77001e0bc069efba8ed7719805b06307b8b72d7aace662dcfc152a710aabab"
+hash = "dc5f222d1018413efd8bcdb1b00fed8aa8fdf329b1daad1caed5be03398f0305"
 metafile = true
 
 [[files]]
@@ -719,11 +719,6 @@ metafile = true
 [[files]]
 file = "mods/polymorphic-energistics.pw.toml"
 hash = "50c3264db098f9d4390d21508ab2f6b21a68a2b52eda373d0205569387cdb329"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
 metafile = true
 
 [[files]]

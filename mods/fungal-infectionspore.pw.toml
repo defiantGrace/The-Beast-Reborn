@@ -1,13 +1,13 @@
 name = "Fungal Infection:Spore"
-filename = "spore_2.1.6_1.20.1.jar"
+filename = "spore_2.1.6e_1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/X661i40C/versions/Cf1PamCz/spore_2.1.6_1.20.1.jar"
+url = "https://cdn.modrinth.com/data/X661i40C/versions/kbw7cwGv/spore_2.1.6e_1.20.1.jar"
 hash-format = "sha512"
-hash = "c1ce8fadf0f8cc48a05880d9612d94b6bbecd7942f287f96505fdb52ae3722baad5f4b74006de3a88243e116c576d6b8c1f59177efbb3de7dcced21d713a904a"
+hash = "7f1d5e4f1e59f5447c7fff958180c7d376764fa2e0b97f885411b7716730389fc94562a0e2ed01677dfc3f5fed73e6ebf681ac2156a799f5ee8c11168bd5ed5d"
 
 [update]
 [update.modrinth]
 mod-id = "X661i40C"
-version = "Cf1PamCz"
+version = "kbw7cwGv"
