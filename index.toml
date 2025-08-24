@@ -472,6 +472,11 @@ hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
 metafile = true
 
 [[files]]
+file = "mods/fossils-and-archeology-revival.pw.toml"
+hash = "2b9b0fd895d1468ad0ee281a720aec308715033e92df8dc32a8e94533ac18fac"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-fabric.pw.toml"
 hash = "36cef0788ba915e48a0fd991847c35056bdbacda46273840c6f300b8431dfdc5"
 metafile = true
@@ -709,6 +714,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "f641c163788080caec5bb44e0db78acdabe6882244ec3b9de8ec79c40ca670bc"
+metafile = true
+
+[[files]]
+file = "mods/more-hitboxes.pw.toml"
+hash = "9115a87ba1c14bfd24b23a5a8b119be60a658d1d69e4b8bfe313a310b664f31a"
 metafile = true
 
 [[files]]
