@@ -132,6 +132,11 @@ hash = "d2c202f43962e64d319a069dc07ada5cd457c311e239c1efaa2849c2285a5553"
 metafile = true
 
 [[files]]
+file = "mods/butchery.pw.toml"
+hash = "67a12440b89d7c88ea7552249dba464314b78dc463774110128f49e82524156d"
+metafile = true
+
+[[files]]
 file = "mods/cat-loaf.pw.toml"
 hash = "5937a705a044b790a79e4d8f7a5239b7b4361eba464c828846e7a335bba818b6"
 metafile = true
@@ -199,6 +204,11 @@ metafile = true
 [[files]]
 file = "mods/countereds-settlement-roads.pw.toml"
 hash = "78f6cdc38281f75a5b947b40874a7f4a65b1c930f5f46746213475ceb1c32a70"
+metafile = true
+
+[[files]]
+file = "mods/crawl.pw.toml"
+hash = "6cef27ac3c7c987ccd9abde1cf5219de1c583f75324e3f9eba2be7e1d60162e4"
 metafile = true
 
 [[files]]
@@ -324,6 +334,31 @@ metafile = true
 [[files]]
 file = "mods/effective.pw.toml"
 hash = "77db2a79ccab8ea16987b981f0de7d6442f716217b83ebe9669f84006b07daf1"
+metafile = true
+
+[[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "aef45a1afd270204f96f05142cd1013146e87428e4ffaef3f54148d7f1836916"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "b4ab0cc9a2ddcc3753b6775a62092f90e8f41f47c58a8f4cfcb41001c404d490"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "f9109bb1aae21525af8da7ed9d062b5a9c3f32a520a4fb5816847e051b64dd34"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "0fa3061d1035a2c2ca204b01df8b284e79c90e7bcfd1c1555b3058114a288447"
 metafile = true
 
 [[files]]
@@ -854,6 +889,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "788039fcd95d52a0a083ea8ba229fa7ee82cd7bab478a5d835ce7e54d671690d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-(unofficial-fabric-port).pw.toml"
+hash = "f6555d6a84addeb947728f35f08325906a68ff7b8be81bb856f7e78115a2b647"
 metafile = true
 
 [[files]]
