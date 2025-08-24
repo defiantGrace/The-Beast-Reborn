@@ -229,11 +229,6 @@ hash = "85e95b32e4cc52e7297b02aa41e98f97e467fc59180ce355f71c87e8aa2b770b"
 metafile = true
 
 [[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "b553ce6ead6f892aeb71cc7dd1e808cf21c74bbcf0db076dc76e394157f9f59a"
-metafile = true
-
-[[files]]
 file = "mods/custom-nether-portal.pw.toml"
 hash = "0af38d837d9e5bf508988ba38b118826378a3a5497c53baae1fa99c1681ee409"
 metafile = true
