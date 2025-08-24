@@ -714,6 +714,16 @@ hash = "3c234a03da1852bd4271ae6a7ea00225a3bf2486118064ea7de8fcf52868c0d6"
 metafile = true
 
 [[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "0b964639fd4da2fe96e57b10f597998927853ae7bda74e2e7ad3b5858d7da23e"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "4b7300e26a0d81a4d83fb67d24a4bd01c2fbd8dc57e5ffb5dc4392646baf1ec8"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8293786ca23e23e7dd04d60d666f34145a00229a5959f7a1962995654cacdf1f"
 metafile = true
