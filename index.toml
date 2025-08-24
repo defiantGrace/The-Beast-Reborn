@@ -1,20 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "buildpack.sh"
-hash = "2efa125c58e13d8bc36ed690d54fb85e678140f12595891c825aed43161e8618"
-
-[[files]]
 file = "config/paxi/datapacks/flesh_meteor.zip"
 hash = "1e3aa6011625b4ddb398ab64dd458f833ed575667fcd78a5cf515456c5ff2421"
 
 [[files]]
 file = "config/watut-client.toml"
 hash = "c8441b0a99acb190ee3f156c438a8e303c9e27946a377e15dbee7f2258502f18"
-
-[[files]]
-file = "modlist.csv"
-hash = "993ffb9725f8d75612fae71beb164c3df87aac5e840c036cfc6c60a93b07b77c"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
