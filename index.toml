@@ -234,6 +234,11 @@ hash = "85e95b32e4cc52e7297b02aa41e98f97e467fc59180ce355f71c87e8aa2b770b"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
+metafile = true
+
+[[files]]
 file = "mods/custom-nether-portal.pw.toml"
 hash = "0af38d837d9e5bf508988ba38b118826378a3a5497c53baae1fa99c1681ee409"
 metafile = true
