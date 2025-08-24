@@ -112,6 +112,11 @@ hash = "33cc939d0ec0fe1079dbfebc6eedb764edef3a6a9c159c8f8a7e5e990ced3a93"
 metafile = true
 
 [[files]]
+file = "mods/blood-n-particles-mod.pw.toml"
+hash = "c0b98548eadbd57340bfd6aef4804bb1d8c2bcf9a68d53191df22ac367e9cc8c"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
 metafile = true
@@ -164,6 +169,11 @@ metafile = true
 [[files]]
 file = "mods/concentration.pw.toml"
 hash = "b16746065bd8b990d9ae4d096f669d5c4e5a18bd53396a18bc36a31e5e72b07c"
+metafile = true
+
+[[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "29387b35d47dc10c63711344b29fe2970dfe23abcefe1be1a32358e2560b0971"
 metafile = true
 
 [[files]]
@@ -269,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "3475b4d1a596b984f55f988a013352c585cf45e183e67de125e16f3468c14001"
+metafile = true
+
+[[files]]
+file = "mods/dripsounds.pw.toml"
+hash = "ba0948090ee94a52b1a8871e1a6ae5259a866e89c75663b8dc442bd3f1dac393"
 metafile = true
 
 [[files]]
@@ -427,6 +442,11 @@ hash = "36cef0788ba915e48a0fd991847c35056bdbacda46273840c6f300b8431dfdc5"
 metafile = true
 
 [[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "8c16d26d5b9bb03da0982af0d7ff7e2aaba6b91e99ab39e5f5b49fc52b1159cf"
+metafile = true
+
+[[files]]
 file = "mods/ftb-ultimine-fabric.pw.toml"
 hash = "448e563f4786e28ce661929ffdd4d16639a06c1a3b025418d50e317207b76a4b"
 metafile = true
@@ -574,6 +594,11 @@ metafile = true
 [[files]]
 file = "mods/lithosphere.pw.toml"
 hash = "11e8f7c2a2214f3133188ca8d045c9171eca8988fbae8a13572e56129b8b9910"
+metafile = true
+
+[[files]]
+file = "mods/lootbeamsfabricupdated.pw.toml"
+hash = "64049a8e9feaf7a8c830c200f07383719417602d4378eacc831798692ee195a4"
 metafile = true
 
 [[files]]
@@ -972,6 +997,16 @@ hash = "434ac58bf0c398eb06d03856a3de1edf30aba72ff11ac953bda99e34132c0376"
 metafile = true
 
 [[files]]
+file = "resourcepacks/3d-crops.pw.toml"
+hash = "82e610917524c6f1af58e102a1be333665ee9af1649477aae0546a30d1ae3114"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3d-default.pw.toml"
+hash = "b7068de2bee41e8d395e6e0cb7f8ae19ab2724db9521e4754ac4cf8897ce7e28"
+metafile = true
+
+[[files]]
 file = "resourcepacks/animated-door.pw.toml"
 hash = "031a54437d0ac582056ff190637d37530b33f0e7e3f0478b4391b2df8d7b0fb2"
 metafile = true
@@ -984,6 +1019,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/half-mine.pw.toml"
 hash = "2f2839488232309091c1a2c73332480fbe3ce107fb807113e56a0028a938f9a5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "0e80f97855da0ee8b2cba02d4cc1f3c82f50bd1ec0772645cfd5dd5d6f4e9a86"
 metafile = true
 
 [[files]]

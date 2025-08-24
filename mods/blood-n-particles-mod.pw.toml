@@ -1,0 +1,13 @@
+name = "Blood N Particles Mod"
+filename = "Blood N' Particles v1.4.0 - Fabric 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GMc9eFJe/versions/my3kEEDZ/Blood%20N%27%20Particles%20v1.4.0%20-%20Fabric%201.20.1.jar"
+hash-format = "sha512"
+hash = "2594be8c6ec7ffc23eda6ec24bdae3b7a6990fd7e3bc2e35d86621d274ceb1c6a210c2f4a6565edd4c0224ca9dff75adb779f7a0251c9d9500cd6a188ddaebb3"
+
+[update]
+[update.modrinth]
+mod-id = "GMc9eFJe"
+version = "my3kEEDZ"
