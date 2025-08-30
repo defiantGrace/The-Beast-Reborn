@@ -17,28 +17,28 @@ file = "config/fancymenu/assets/the_valve.gif"
 hash = "083479c80bd12d62d129fc805fa11a561d803863a2b8cc117b5bd03ffe2d01f6"
 
 [[files]]
-file = "config/fancymenu/audio_element_controller_metas.json"
-hash = "66ebe648cb7229bddc978437076035c83c81ac6834f25b1fd7d1dae5f75e9c0f"
-
-[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "987a7327bbe9a31a8b4b12addb633c34a5ef39a98b9b3d9d669b1cc7891eaabf"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "410509fb1a8524c2be9ecb83b84fb055f0ff2d21c17d8804ec3ce025ff8e9a1e"
+hash = "f54a00690bc7785781c30b9ad6d16fbde5bc36e2f1fca7a7d683816e058d1101"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "9862375c7812fc68528dc12967d506d34d22067dec19d3780441db855840e613"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "265054d2c0adc41a3bdfa80d961621ddef50eca521211706efeca053ebf60c96"
+hash = "b33649f76b09a9bcaa82452b3fbd84160696e248b3d4a3e80ad3b2bd989d50bf"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
