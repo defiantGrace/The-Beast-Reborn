@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckoanimfix.pw.toml"
-hash = "6c666ddc838238c672a39914b061e9f12e20d66a648a2492f60f04b46054898c"
+hash = "ab4b325177da4a7132d3c2d4990fd5fbb65d5f070265a01b0d9d5f102fb874e7"
 metafile = true
 
 [[files]]
@@ -651,12 +651,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "8619be4a2d5da2deff6cee6ebda356c1a7fdf3a36d8b58d31cd6ddd5b1649ca1"
+hash = "c2b9ac62e436072494f284cb35c89bfae626197dc277d88d726aaf7ba1a80c6d"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+hash = "c38a7a541d6f54ab16aff833a92fb0914fa28dfdd97736d8e266e45fea53bef4"
 metafile = true
 
 [[files]]
