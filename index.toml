@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorable-hamster-pets.pw.toml"
-hash = "ae0be00485e1ffa9d4fe267b07c5025887c393383ad8bf8f91b3eb3eb39511ed"
+hash = "21aaa7e851ac6e4043129fad9baa61d8c6f5d4260d52417b0fc29c28b874069d"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+hash = "c6fe1e8ca4188b1361e13c776ef9da2222af0e7f86694c8fff66a868ade67e15"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "8eb10c86083225d12ec67f6bd65e19e8f917a7f08495dfcd12a210768cf06c4e"
+hash = "c7b3da3f45fc23a62f4d0e5503878894034dcd36cc180cf4528e3ee2ee793883"
 metafile = true
 
 [[files]]
