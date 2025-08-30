@@ -5,6 +5,54 @@ file = "config/ModernUI/client.toml"
 hash = "b890a71cbab49ea1b9f4059573bf35afb6d567f513abc0b70bf4df258c8bdc66"
 
 [[files]]
+file = "config/fancymenu/assets/rock.png"
+hash = "b3aaacc6f891a29b66779c08716e5e05fc0c51d050d17ec0a6375d9dff4c270a"
+
+[[files]]
+file = "config/fancymenu/assets/the_rock.ogg"
+hash = "bdd784337a332f563e8c5bbc354d427234ea8a17c9402210f64e8d60b36d482b"
+
+[[files]]
+file = "config/fancymenu/assets/the_valve.gif"
+hash = "083479c80bd12d62d129fc805fa11a561d803863a2b8cc117b5bd03ffe2d01f6"
+
+[[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "66ebe648cb7229bddc978437076035c83c81ac6834f25b1fd7d1dae5f75e9c0f"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "987a7327bbe9a31a8b4b12addb633c34a5ef39a98b9b3d9d669b1cc7891eaabf"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "410509fb1a8524c2be9ecb83b84fb055f0ff2d21c17d8804ec3ce025ff8e9a1e"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "9862375c7812fc68528dc12967d506d34d22067dec19d3780441db855840e613"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "265054d2c0adc41a3bdfa80d961621ddef50eca521211706efeca053ebf60c96"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "config/ohmymeteors/ohmymeteors_config.yml"
 hash = "288d6718af6da6d5c5c1f4ae5b394cec244d3ed3a4276055f988136dbf316196"
 
@@ -47,6 +95,11 @@ hash = "d16b012585073b25dc94673ba2d5154b34155b32a0fe44e9f147e39b88d91e88"
 metafile = true
 
 [[files]]
+file = "mods/applesaplings.pw.toml"
+hash = "5175391ea6e0b6e02473ac9ffba2cdb3dca72f54e373c9684745b07031e250d4"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
@@ -62,6 +115,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/astrocraft.pw.toml"
+hash = "609bb6f00e92fdd3cfea95034b50a01d8a91e2c76c4457180b138bade5edc532"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "db0cf0e8fa916c1f982e0e3b84f3bed423b7f68e24446508e6dd4374d578fdab"
 metafile = true
@@ -74,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "588ac340ae8eb4e7e2f91cb7bf77287b142f48e771405565555c483f542395d4"
+metafile = true
+
+[[files]]
+file = "mods/backported-discs.pw.toml"
+hash = "e5ff85b3da6ca2669ce639784d942256845dce33f5dfbb3a0dcd1d3781f79d5a"
 metafile = true
 
 [[files]]
@@ -287,6 +350,11 @@ hash = "6436fdcebec9d69d76733fe543e10101abbcbee2c9713b301c9b9d2a531c4166"
 metafile = true
 
 [[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "c7351890b58df4ad8a64d05ff7b417a458dc66ba916cf88b10b634f753b0ae38"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "3475b4d1a596b984f55f988a013352c585cf45e183e67de125e16f3468c14001"
 metafile = true
@@ -437,6 +505,11 @@ hash = "fff1e00559f13c092b17fa83804279cf70191d7a99a4a98a4eb6bb30ac9a78db"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "8eb10c86083225d12ec67f6bd65e19e8f917a7f08495dfcd12a210768cf06c4e"
+metafile = true
+
+[[files]]
 file = "mods/farmers-cutting-promenade.pw.toml"
 hash = "7e3d599f8c8ea528a719950aa538e56908e010b378e9bf57afb98cead652196d"
 metafile = true
@@ -494,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "bc7e199dc865b98387fb460ab134ec17778bdef7977e2f9e5975dbe5326c8b9b"
+metafile = true
+
+[[files]]
+file = "mods/geckoanimfix.pw.toml"
+hash = "6c666ddc838238c672a39914b061e9f12e20d66a648a2492f60f04b46054898c"
 metafile = true
 
 [[files]]
@@ -557,6 +635,11 @@ hash = "7b2a6ba47ec55e20106418e87386a029190003aadf5e1815c4df43cc2c60946d"
 metafile = true
 
 [[files]]
+file = "mods/infinitybuttons.pw.toml"
+hash = "f06d859796e84c8ecbdbbabd07c988d8c9b94f4c4ee3ab7dcce9400e4d073a62"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "1c4adb76db0269967707008b25c597c820321cef8671d57de7f92b4fd293b108"
 metafile = true
@@ -612,6 +695,11 @@ hash = "88685e0833b75eecf9686d9b56d526ef5bf5659ca4b2721e09191bcf022bd21f"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "d6be91dc0a2aca23ee640818d8a8295c85ddb2db6e0413669ecac9600b01eef0"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
@@ -664,6 +752,11 @@ metafile = true
 [[files]]
 file = "mods/marvelous-menagerie.pw.toml"
 hash = "ff06369236d814269140a384e09056c94975b06c0f157fd052afd18b41d3e3c3"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "a387dcfe8d66bcde451407d5608af67e95720dea13d94a20e13ad5340f6bec6e"
 metafile = true
 
 [[files]]
@@ -969,6 +1062,16 @@ metafile = true
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
 hash = "61466bd93ab560b9e8e5270a196a1776c8348d20875a18d6e32a825327b79046"
+metafile = true
+
+[[files]]
+file = "mods/tooltip-overhaul.pw.toml"
+hash = "9cfa6d901c6495fd7d1582d2c0d10f6d04759a3e6af128e134e0837656471689"
+metafile = true
+
+[[files]]
+file = "mods/transmog.pw.toml"
+hash = "e39b8775a774366287292698ad27abba08613cdba0032ff81c886d982da2638d"
 metafile = true
 
 [[files]]

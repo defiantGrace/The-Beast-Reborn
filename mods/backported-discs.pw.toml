@@ -1,0 +1,13 @@
+name = "Backported Discs"
+filename = "backported-discs-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W4vtjnfp/versions/sS2WG0Ea/backported-discs-2.0.jar"
+hash-format = "sha512"
+hash = "30199f80ab564aa0c3032ec5305aa77c68abb1dcc4ba3d9ae2f73673cf7182f743c56a3b014227c4fb03e696dee449ffa94bb92b3100fc6b7f3fe4e5ef96889c"
+
+[update]
+[update.modrinth]
+mod-id = "W4vtjnfp"
+version = "sS2WG0Ea"
