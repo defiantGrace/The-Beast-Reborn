@@ -69,6 +69,10 @@ file = "config/resourcepackoverrides.json"
 hash = "369c4caf25bb4f623bae8707210efec5412b3d16cafe2193fbc3dd7bc18ffe49"
 
 [[files]]
+file = "config/sporeconfig.toml"
+hash = "f889f18592ff52cb9739282b877b1f8d9e509918edd84b8be4d0f6bde533d1cc"
+
+[[files]]
 file = "config/watut-client.toml"
 hash = "c8441b0a99acb190ee3f156c438a8e303c9e27946a377e15dbee7f2258502f18"
 
@@ -980,6 +984,11 @@ metafile = true
 [[files]]
 file = "mods/scalable-cats-force.pw.toml"
 hash = "94348eb859cbe4152cbc2f665da89414667d566ca1ed80fff45acea942bb8e69"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "a47d32bc04a461351608608f34543b818019ff928102422078f00d23b7a14fae"
 metafile = true
 
 [[files]]

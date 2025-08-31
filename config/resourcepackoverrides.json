@@ -1,0 +1,14 @@
+{
+  "schema_version": "2",
+
+  "default_packs": [
+    "file/DarkAtmosphere.zip",
+    "file/3D Default 1.20+ v1.12.0.zip",
+    "file/crops-3d(2).zip",
+    "file/\u00A79RAY's \u00A7f3D \u00A76Rails\u00A78\u00A7o\u00A7k.zip",
+    "file/Create Military Grade 1.0.8.zip",
+    "railways:green_signals",
+    "file/Half-Mine.zip",
+    "file/Half-Life Splash Texts.zip"
+  ]
+}

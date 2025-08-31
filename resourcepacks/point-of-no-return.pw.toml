@@ -1,0 +1,13 @@
+name = "Point of no Return GUI"
+filename = "Point-of-no-Return-GUI.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jmiWM7Sm/versions/LeXZnABv/Point-of-no-Return-GUI.zip"
+hash-format = "sha512"
+hash = "dd0a8a6da57dd32014b1c9e7dc19969a02e5aa4983d9e7c951977916d458e397c566873f16c5ef9b8480ec136245503f2df6c3922323a9bd4e6b9e386a53f124"
+
+[update]
+[update.modrinth]
+mod-id = "jmiWM7Sm"
+version = "LeXZnABv"
