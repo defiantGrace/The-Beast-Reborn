@@ -1232,11 +1232,6 @@ hash = "b7068de2bee41e8d395e6e0cb7f8ae19ab2724db9521e4754ac4cf8897ce7e28"
 metafile = true
 
 [[files]]
-file = "resourcepacks/animated-door.pw.toml"
-hash = "031a54437d0ac582056ff190637d37530b33f0e7e3f0478b4391b2df8d7b0fb2"
-metafile = true
-
-[[files]]
 file = "resourcepacks/create-military-grade.pw.toml"
 hash = "de20f85e60037601acfdf3f9ecba9eb216fedf76551433f1887eef7a044ae07f"
 metafile = true
