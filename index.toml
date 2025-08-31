@@ -242,6 +242,11 @@ hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
+metafile = true
+
+[[files]]
 file = "mods/companions-mod.pw.toml"
 hash = "74a0073bf5d88f017bfb6d208622b0d3404aa5e478d350f1dc3487c114268b7a"
 metafile = true
@@ -874,6 +879,11 @@ metafile = true
 [[files]]
 file = "mods/ohmymeteors.pw.toml"
 hash = "ae1ec31ca46be49eebac3380ac8908ed794756b2944f8642039d7ade5871c75a"
+metafile = true
+
+[[files]]
+file = "mods/overworld-piglins.pw.toml"
+hash = "3d039d564c8b778390781edadf1891d56593e708aa40afdacaad5cce2004e46a"
 metafile = true
 
 [[files]]
