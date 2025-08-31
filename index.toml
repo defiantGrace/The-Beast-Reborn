@@ -53,12 +53,20 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/modern_industrialization.toml"
+hash = "b841a24ea36b9a496e0d5fe5fd2ae9a2901e4affef2db5b59a9230506453c5f5"
+
+[[files]]
 file = "config/ohmymeteors/ohmymeteors_config.yml"
 hash = "288d6718af6da6d5c5c1f4ae5b394cec244d3ed3a4276055f988136dbf316196"
 
 [[files]]
 file = "config/paxi/datapacks/flesh_meteor.zip"
 hash = "1e3aa6011625b4ddb398ab64dd458f833ed575667fcd78a5cf515456c5ff2421"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "369c4caf25bb4f623bae8707210efec5412b3d16cafe2193fbc3dd7bc18ffe49"
 
 [[files]]
 file = "config/watut-client.toml"
@@ -111,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "c6fe1e8ca4188b1361e13c776ef9da2222af0e7f86694c8fff66a868ade67e15"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
@@ -545,6 +553,11 @@ hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-fabric.pw.toml"
+hash = "3e1c0acfc7477a24b94bf6ae954fa2443602693d7a879ea07a089e6c1c2a78be"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-fabric.pw.toml"
 hash = "36cef0788ba915e48a0fd991847c35056bdbacda46273840c6f300b8431dfdc5"
 metafile = true
@@ -582,6 +595,11 @@ metafile = true
 [[files]]
 file = "mods/glodium.pw.toml"
 hash = "dc96ea7e0dbe948eb3c517bb5458dd1fc9a787b61719458c2dd92d549c667ffb"
+metafile = true
+
+[[files]]
+file = "mods/hardcore-revival.pw.toml"
+hash = "26d3ac24051dd0575781ef91126485e4a14daa5950c88bfc4fd35c69e299c96c"
 metafile = true
 
 [[files]]
@@ -910,6 +928,11 @@ hash = "50c3264db098f9d4390d21508ab2f6b21a68a2b52eda373d0205569387cdb329"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "031743fe4b9dde448acc3e3b8cfcde7bef052c2b25b3a5506aae8da3b9ac6166"
+metafile = true
+
+[[files]]
 file = "mods/promenade.pw.toml"
 hash = "c385b5e757bac21a475bdb9237ae31ea34f2d6e342c11d34bafc8823f4854e2a"
 metafile = true
@@ -922,6 +945,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "1224221ef8ec2447a9723b25dc6a92dc0ecea87d90a13754e4895abd3a4c5a8c"
 metafile = true
 
 [[files]]
@@ -1190,6 +1218,11 @@ hash = "de20f85e60037601acfdf3f9ecba9eb216fedf76551433f1887eef7a044ae07f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/dark-atmosphere-and-dreadful-skies.pw.toml"
+hash = "7502e296f069dfd93f57f4de29454e5b42fb0a6eb9cdb794f241ebff31ceb3ae"
+metafile = true
+
+[[files]]
 file = "resourcepacks/half-mine.pw.toml"
 hash = "2f2839488232309091c1a2c73332480fbe3ce107fb807113e56a0028a938f9a5"
 metafile = true
@@ -1200,8 +1233,18 @@ hash = "b3f47a74aaf0b428c3b06d2cc366661d03bc33c2442eb06cb8e6a8e6a6a1d218"
 metafile = true
 
 [[files]]
+file = "resourcepacks/point-of-no-return.pw.toml"
+hash = "7c64c2d3ddf1767706786610f84ed8d3e42f69aebce5efb6f0a9e3864594dc85"
+metafile = true
+
+[[files]]
 file = "resourcepacks/rays-3d-rails.pw.toml"
 hash = "0e80f97855da0ee8b2cba02d4cc1f3c82f50bd1ec0772645cfd5dd5d6f4e9a86"
+metafile = true
+
+[[files]]
+file = "resourcepacks/splash-texts-half-life.pw.toml"
+hash = "77f1eb4eaddd903ee12c9b4360d32207ffcfb07c3eb7a29ed08c57161873947f"
 metafile = true
 
 [[files]]
