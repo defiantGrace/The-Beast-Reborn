@@ -1252,11 +1252,6 @@ hash = "2f2839488232309091c1a2c73332480fbe3ce107fb807113e56a0028a938f9a5"
 metafile = true
 
 [[files]]
-file = "resourcepacks/luster16.pw.toml"
-hash = "b3f47a74aaf0b428c3b06d2cc366661d03bc33c2442eb06cb8e6a8e6a6a1d218"
-metafile = true
-
-[[files]]
 file = "resourcepacks/point-of-no-return.pw.toml"
 hash = "7c64c2d3ddf1767706786610f84ed8d3e42f69aebce5efb6f0a9e3864594dc85"
 metafile = true
