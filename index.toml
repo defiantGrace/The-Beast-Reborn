@@ -53,6 +53,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/forgeconfigapiport.toml"
+hash = "c8c9adfb1a88781fb5ab67d36f7a6e0df486bc8a6215072c106c09ba13401c1a"
+
+[[files]]
 file = "config/modern_industrialization.toml"
 hash = "b841a24ea36b9a496e0d5fe5fd2ae9a2901e4affef2db5b59a9230506453c5f5"
 
@@ -137,6 +141,11 @@ hash = "db0cf0e8fa916c1f982e0e3b84f3bed423b7f68e24446508e6dd4374d578fdab"
 metafile = true
 
 [[files]]
+file = "mods/attract-to-sound.pw.toml"
+hash = "dcde62e86bfdeedc0b75f71e20c015ae847cdc27321af004d638f4022c8b339d"
+metafile = true
+
+[[files]]
 file = "mods/automatic-potato.pw.toml"
 hash = "be64079e6b07ea060e3f9b375d5e888cf941880619cdd7eba922f68419922d8e"
 metafile = true
@@ -204,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/breakfree.pw.toml"
 hash = "d2c202f43962e64d319a069dc07ada5cd457c311e239c1efaa2849c2285a5553"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "d250a791b3ec9538036276fde244293c9c6d1854d6073d13f731f0fe36c73ff7"
 metafile = true
 
 [[files]]
@@ -542,6 +556,11 @@ hash = "5c98012330282f45370e95f4206ccf214fb059b73a8b4ebe0aeb2ae57647d8d5"
 metafile = true
 
 [[files]]
+file = "mods/fear-of-anything.pw.toml"
+hash = "9fddd64a4adc3ff1560122e0f6b27cff4aac772779d4fcc19fe470431d424f59"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
@@ -554,11 +573,6 @@ metafile = true
 [[files]]
 file = "mods/findme.pw.toml"
 hash = "915dd342659f472c1e26ad781831eea4b8b5c47d5d68c426432008ae361d325f"
-metafile = true
-
-[[files]]
-file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "f0e7773218c4987d6f77c5f934e39848ca7af39d39f953f3d8f5a2c6d3efbbea"
 metafile = true
 
 [[files]]
@@ -634,6 +648,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
+metafile = true
+
+[[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "59e693fdad9c69fab13a5770e20e0bcbdf9831053361c04c786932c75a67f312"
 metafile = true
 
 [[files]]
@@ -784,6 +803,11 @@ metafile = true
 [[files]]
 file = "mods/marvelous-menagerie.pw.toml"
 hash = "ff06369236d814269140a384e09056c94975b06c0f157fd052afd18b41d3e3c3"
+metafile = true
+
+[[files]]
+file = "mods/mebahels-zombie-horde.pw.toml"
+hash = "2ab6ec39d34086045249ad0132062af14067789def9d94f51889d5e6a7352835"
 metafile = true
 
 [[files]]
@@ -1214,6 +1238,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "7e89ac9ea56f87a811a289d474b8ab4fe46d7a235b4c6ef4767e5099967d656e"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "d7651d3c0b4223a2df4af7d72636e7bf80c558dc351065c7431db4147c215ab4"
 metafile = true
 
 [[files]]
