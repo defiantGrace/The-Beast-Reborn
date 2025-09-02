@@ -141,11 +141,6 @@ hash = "db0cf0e8fa916c1f982e0e3b84f3bed423b7f68e24446508e6dd4374d578fdab"
 metafile = true
 
 [[files]]
-file = "mods/attract-to-sound.pw.toml"
-hash = "dcde62e86bfdeedc0b75f71e20c015ae847cdc27321af004d638f4022c8b339d"
-metafile = true
-
-[[files]]
 file = "mods/automatic-potato.pw.toml"
 hash = "be64079e6b07ea060e3f9b375d5e888cf941880619cdd7eba922f68419922d8e"
 metafile = true
@@ -553,11 +548,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "5c98012330282f45370e95f4206ccf214fb059b73a8b4ebe0aeb2ae57647d8d5"
-metafile = true
-
-[[files]]
-file = "mods/fear-of-anything.pw.toml"
-hash = "9fddd64a4adc3ff1560122e0f6b27cff4aac772779d4fcc19fe470431d424f59"
 metafile = true
 
 [[files]]
