@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/companions-mod.pw.toml"
-hash = "74a0073bf5d88f017bfb6d208622b0d3404aa5e478d350f1dc3487c114268b7a"
+hash = "59a79b95881b853aa1817587373b174f0892b5ea477f33108ff18be6f7ef0c8f"
 metafile = true
 
 [[files]]
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "95323c7976353b06842906f05d1eb5c5bddbd5e40f04c416fc5140e56f77b61a"
+hash = "55d5dbe5d34cf93f3b084f2dbe23845be53e090cd811c4b5fea64bd1a88cbd0e"
 metafile = true
 
 [[files]]
