@@ -266,11 +266,6 @@ hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
 metafile = true
 
 [[files]]
-file = "mods/companions-mod.pw.toml"
-hash = "59a79b95881b853aa1817587373b174f0892b5ea477f33108ff18be6f7ef0c8f"
-metafile = true
-
-[[files]]
 file = "mods/concentration.pw.toml"
 hash = "b16746065bd8b990d9ae4d096f669d5c4e5a18bd53396a18bc36a31e5e72b07c"
 metafile = true
