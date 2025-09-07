@@ -231,11 +231,6 @@ hash = "a64fd77827cfe582e2ad434fbf5fd6a70450796c191525cab9ea33d42e98a212"
 metafile = true
 
 [[files]]
-file = "mods/chest-cavity.pw.toml"
-hash = "cce9179413c47b3f0bea0f89226089adac1ebe761c272f072f1ad526d393fc19"
-metafile = true
-
-[[files]]
 file = "mods/chest-tracker.pw.toml"
 hash = "bbe9f0d7480927cfdb9e2f4d125367ef81f37c263ad6fdcac754380e3af7da62"
 metafile = true
